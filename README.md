@@ -86,19 +86,14 @@ The notebook combines a regression model (for road following) and a classificati
   - Mean: `[0.485, 0.456, 0.406]`
   - Std: `[0.229, 0.224, 0.225]`
 - Models must be converted to TensorRT format (`.pth`) before use.
-
----
-
-## 🧪 Examples
-
-To be added — you can share example images or short video/GIFs showing JetBot navigating a track and avoiding obstacles.
+- 
 
 ---
 
 ## 🛠️ Troubleshooting
 
 - **Model Not Found**: Ensure `.pth` model files are in the same directory as the notebook.
-- **Camera Not Working**: Restart the notebook or check camera initialization code.
+- **Camera Not Working**: Restart the notebook or check the camera initialization code.
 - **JetBot Not Moving**: Check motor calibration and ensure it's on a flat surface.
 
 ---
@@ -107,7 +102,9 @@ To be added — you can share example images or short video/GIFs showing JetBot 
 
 Add your name or usernames here, for example:
 
-- [Your Name](https://github.com/yourusername)
+- [Mohamed Niyaz](https://github.com/n1yxz)
+- [Nitin John](https://github.com/nj-16)
+- [Thomas Britnell](https://github.com/thomasbritnell)
 
 ---
 
