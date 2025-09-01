@@ -27,7 +27,7 @@ The notebook combines a regression model (for road following) and a classificati
 
 1. Clone this repository or download the notebook:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/n1yxz/NVIDIA_Jetbot_Road_Following_Collision_Avoidance.git
    ```
 
 2. Install required Python packages (preferably in a Jetson Nano environment):
