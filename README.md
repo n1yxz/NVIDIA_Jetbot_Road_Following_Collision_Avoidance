@@ -16,7 +16,6 @@ The notebook combines a regression model (for road following) and a classificati
 - [Features](#-features)
 - [Dependencies](#-dependencies)
 - [Configuration](#-configuration)
-- [Examples](#-examples)
 - [Troubleshooting](#-troubleshooting)
 - [Contributors](#-contributors)
 - [License](#-license)
